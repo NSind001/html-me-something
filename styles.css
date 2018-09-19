@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+    background-color: black;
+    background-image: url("https://78.media.tumblr.com/864f592ac46711dc0a282b381f4a0889/tumblr_p48bzuag4s1wa0js4o1_1280.gif");
+}
+div {
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    margin: 25px;
+}
+
+h1 {
+    margin: 25px;
+    color: white;
+    font-family: 'Courier New', 'Courier New', Courier, monospace;
+    text-align: center;
+}
+h2 {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+p {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+}
+details {
+	color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px
+footer {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 10px
+}
+</style>
+</head>
